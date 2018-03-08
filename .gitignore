@@ -1,0 +1,9 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+packages
+.buildlog
+pubspec.lock
+Generated.xcconfig

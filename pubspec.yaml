@@ -1,0 +1,12 @@
+name: flutter_load_indicator
+description: Collection of various load indicators.
+version: 0.0.1
+author: Zulfahmi Ahmad
+homepage:
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: ^0.12.0
