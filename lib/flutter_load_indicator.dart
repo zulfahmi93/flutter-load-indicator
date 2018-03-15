@@ -66,8 +66,10 @@ class _JumpingBoxProgressIndicatorState
 
   @override
   void dispose() {
+    _controller
+      ..stop()
+      ..dispose();
     super.dispose();
-    _controller.dispose();
   }
 
   @override
